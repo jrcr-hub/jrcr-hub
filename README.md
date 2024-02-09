@@ -1,7 +1,7 @@
 
 ![alt text](http://www.columbia.edu/cu/computinghistory/norc-banner.jpg)
 
-<h3 align="center">Lawyer passionate about microcontroller programming everything related maker world. DIY!</h3>
+<h3 align="center">Lawyer passionate about microcontroller programming, everything related maker world. DIY!</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
